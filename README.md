@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4573e1f9-53bc-4e4c-b497-b9ce56aa32ef" width="50%">
+</p>
+
+
 # SSP CUB 2024 Orbital Determination Code
 ## Samuel Yuan
 
