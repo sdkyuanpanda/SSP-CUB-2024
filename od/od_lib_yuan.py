@@ -16,7 +16,7 @@ class OrbitalDetermination:
         i: inclination
         omega: longitude of the ascending node
         Omega: argument of perihelion
-        nu: true anomaly (or mean or eccentric anomaly)
+        M: mean anomaly (or true or eccentric anomaly)
 
     :param position_vec: position vector r [AU].
     :param velocity_vec: velocity vector rdot [AU/Gaussian Days].
