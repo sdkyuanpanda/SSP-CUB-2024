@@ -5,7 +5,7 @@
 # SSP CUB 2024 Orbital Determination Code
 ## Samuel Yuan
 
-Super cool orbital determination (OD) code and report stuff are available here. OD code is in the `od` folder and the main od file is titled `od_lib_yuan.py`. Experiments on asteroid 699 Hela (aka A910 LC) are available in a Jupyter Notebook. The final report is titled `ssp_team08_final_report-1.pdf` and is in the main directory. Below is a schematic of the OD process:
+Super cool orbital determination (OD) code and report stuff is available here. OD code is in the `od` folder and the main od file is titled `od_lib_yuan.py`. Experiments on asteroid 699 Hela (aka A910 LC) are available in a Jupyter Notebook. The final report is titled `ssp_team08_final_report-1.pdf` and is in the main directory. Below is a schematic of the OD process:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3794eadc-27d1-463f-ab6d-e3270e1d7ce0" width="90%">
