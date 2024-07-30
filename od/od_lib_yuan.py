@@ -23,7 +23,7 @@ class OrbitalDetermination:
     :param time: time little t at measured postiion_vec [Julian Days]
     """
     def __init__(
-		self, 
+	self, 
         position_vec: np.ndarray[np.float64], 
         velocity_vec: np.ndarray[np.float64],
         time: float
