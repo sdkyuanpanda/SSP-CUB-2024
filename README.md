@@ -17,4 +17,4 @@ Orbital elements of Mars-crossing asteroid 699 Hela were determined with Gauss' 
   <img src="https://github.com/user-attachments/assets/abff0395-aea0-4115-bf98-0ca09a395a8b" width="50%">
 </p>
 
-Our observations and simulations refine orbital element predictions for 699 Hela and further confirm that it is most likely on a stable orbit and will not hit earth :)!
+Our observations and simulations refine orbital element predictions for 699 Hela and further confirm that it is most likely on a stable orbit and will not hit earth :)! Huge thanks to all SSP CUB faculty, TAs, and peers!
