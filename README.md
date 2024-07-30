@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4573e1f9-53bc-4e4c-b497-b9ce56aa32ef" width="50%">
+  <img src="https://github.com/user-attachments/assets/68139de8-38d5-468a-a255-dd90d81e1ad4" width="50%">
 </p>
 
 # SSP CUB 2024 Orbital Determination Code
