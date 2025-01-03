@@ -648,7 +648,7 @@ class GaussMethod:
 		while abs((np.linalg.norm(r2) - last_r2_mag)/(np.linalg.norm(r2))) >= 1e-10:
 			last_r2_mag = np.linalg.norm(r2)
 		
-			# to check non-converging case of very sensitive input values
+			# to check non-converging case of very sensitive input values - useful for A910 LC
 			counter += 1
 			if counter > 5e2:
 				break
