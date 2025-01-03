@@ -23,7 +23,7 @@ class OrbitalDetermination:
     :param time: time little t at measured postiion_vec [Julian Days]
     """
     def __init__(
-	self, 
+		self, 
         position_vec: np.ndarray[np.float64], 
         velocity_vec: np.ndarray[np.float64],
         time: float
@@ -31,7 +31,7 @@ class OrbitalDetermination:
         assert position_vec.shape[0] == velocity_vec.shape[0] == 3
         
         # ensure float64 arrays for accuracy
-        self.position_vec = position_vec.astype(np.float64)
+		self.position_vec = position_vec.astype(np.float64)
         self.velocity_vec = velocity_vec.astype(np.float64)
         self.time = time.astype(np.float64)
 
